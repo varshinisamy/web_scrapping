@@ -1,16 +1,16 @@
 # web_scrapping 
 teck stack : Python
 
-Web scraping is the process of automatically extracting data from websites.
+1)Web scraping is the process of automatically extracting data from websites.
 
-target website: Github
+2)target website: Github
 
-scraping library used:BeautifulSoup (bs4)
+3)scraping library used:BeautifulSoup (bs4)
 
-Send HTTP requests: Using the bs4 it sends HTTP requests to the target website and retrieve the web pages' HTML content.
+4)Send HTTP requests: Using the bs4 it sends HTTP requests to the target website and retrieve the web pages' HTML content.
 
-Parse HTML content: Parse the HTML content of the web pages to extract the relevant data. 
+5)Parse HTML content: Parse the HTML content of the web pages to extract the relevant data. 
 
-input: username of the github
+6)input: username of the github
 
-output: profile image of the user.
+7)output: profile image of the user.
